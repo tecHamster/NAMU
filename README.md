@@ -13,6 +13,6 @@ This repository hosts a meticulously crafted landing page dedicated to the Natio
 - **Scroll-Based Animation:** Implemented captivating scroll-based animations in the "Visit" block using pure JavaScript, enhancing user engagement.
 
 ## Lighthouse Scores
-![Lighthouse Scores](https://imgdb.net/14366)
+![Lighthouse Scores](https://imgdb.net/storage/uploads/8e108ffb9154287aa7445f2a85f99ba0cbd5774b5e7a2a90b673a519302ec72e.png)
 
 For the Lighthouse scores for this project, please visit [Google PageSpeed](https://pagespeed.web.dev/analysis/https-github-com-tecHamster-layout_miami-tree-master-src-styles/y70q65jfu3?form_factor=mobile).

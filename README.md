@@ -15,4 +15,4 @@ This repository hosts a meticulously crafted landing page dedicated to the Natio
 ## Lighthouse Scores
 ![Lighthouse Scores](https://imgdb.net/storage/uploads/8e108ffb9154287aa7445f2a85f99ba0cbd5774b5e7a2a90b673a519302ec72e.png)
 
-For the Lighthouse scores for this project, please visit [Google PageSpeed](https://pagespeed.web.dev/analysis/https-github-com-tecHamster-layout_miami-tree-master-src-styles/y70q65jfu3?form_factor=mobile).
+For the Lighthouse scores for this project, please visit [Google PageSpeed](https://pagespeed.web.dev/analysis/https-techamster-github-io-NAMU/996fdcom7t?form_factor=mobile).
